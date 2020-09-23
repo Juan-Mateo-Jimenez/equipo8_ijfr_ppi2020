@@ -1,0 +1,20 @@
+.bg-nav {
+    background-color: none;
+}
+
+.bg-head {
+    height: 100vh;
+    background-size: 100%;
+}
+
+.bg-jm h1 {
+    font-size: 28px;
+}
+
+.bg-jm p {
+    font-size: 18px;
+}
+
+.jumbotron {
+    background-color: rgb(201, 255, 196);
+}
